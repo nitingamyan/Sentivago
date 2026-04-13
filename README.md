@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Smart Tourism AI
 
 Clean MVP starter for an India-first tourism discovery website.
@@ -86,3 +87,7 @@ smart-tourism-ai/
 - The app works without Google or AI keys because it includes fallback content.
 - Recommendation ranking and numeric budget estimates stay deterministic so the core flow is not blocked by AI variability.
 - AI is used for richer destination writing, not as the only source of truth for travel numbers.
+=======
+# Sentivago
+AI-powered travel discovery platform for India
+>>>>>>> 8987dd09df7da3a66f1617918b08f5cb0868eb9b
